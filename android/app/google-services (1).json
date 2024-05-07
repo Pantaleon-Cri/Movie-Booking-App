@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522229812728",
+    "project_id": "movie-booking-applicatio-3198c",
+    "storage_bucket": "movie-booking-applicatio-3198c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522229812728:android:65c9d2dbb857f56c151a0d",
+        "android_client_info": {
+          "package_name": "com.example.moving_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_DZgPqa1mrYmhwnACEX1lJLnJ2GrAG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
